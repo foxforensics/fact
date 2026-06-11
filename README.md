@@ -5,13 +5,13 @@ A shell pipeline for extracting forensic artifacts from disk images in [ECS](htt
 # fmount disk.raw | ffind | flog -D logstash
 ```
 
-## [fmount](https://foxforensics.dev/fmount)
+## [fmount](https://go.foxforensics.eu/fmount)
 Mount various disk images for forensic read-only processing.
 
-## [ffind](https://foxforensics.dev/ffind)
+## [ffind](https://go.foxforensics.eu/ffind)
 Find forensic artifacts in mount points or the live system.
 
-## [flog](https://foxforensics.dev/flog)
+## [flog](https://go.foxforensics.eu/flog)
 Log forensic artifacts as JSON in ECS format.
 
 ## License
